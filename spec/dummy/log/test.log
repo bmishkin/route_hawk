@@ -1,0 +1,1109 @@
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (27.3ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.2ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+SQLite3::SQLException: no such table: route_hawk_roles: SELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC
+  [1m[35mRouteHawk::Role Load (0.2ms)[0m  SELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC
+SQLite3::SQLException: no such table: route_hawk_roles: SELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.2ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+SQLite3::SQLException: no such table: route_hawk_roles: SELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC
+  [1m[35mRouteHawk::Role Load (0.2ms)[0m  SELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC
+SQLite3::SQLException: no such table: route_hawk_roles: SELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC
+  [1m[36m (2.3ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (2.6ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+Migrating to CreateRouteHawkRoles (20140415164923)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.3ms)[0m  CREATE TABLE "route_hawk_roles" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "created_at" datetime, "updated_at" datetime) 
+  [1m[36m (0.1ms)[0m  [1mCREATE  INDEX "index_route_hawk_roles_on_name" ON "route_hawk_roles" ("name")[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20140415164923"]]
+  [1m[36m (3.7ms)[0m  [1mcommit transaction[0m
+Migrating to CreateRouteHawkRoleRoutes (20140415170715)
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.3ms)[0m  [1mCREATE TABLE "route_hawk_role_routes" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "role_id" integer, "path_info" text, "request_method" varchar(32), "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20140415170715"]]
+  [1m[36m (3.4ms)[0m  [1mcommit transaction[0m
+Migrating to CreateUsers (20140415173841)
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.3ms)[0m  [1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20140415173841"]]
+  [1m[36m (3.1ms)[0m  [1mcommit transaction[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_route_hawk_roles_on_name' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_route_hawk_roles_on_name' AND type='index'
+[0m
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.2ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.2ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.2ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Exists (0.2ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.2ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.2ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Exists (0.2ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.2ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Exists (0.2ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.2ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Exists (0.2ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.2ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Exists (0.2ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Load (0.1ms)[0m  SELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 17:56:24.043119"], ["name", "anonymous"], ["updated_at", "2014-04-15 17:56:24.043119"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT  "route_hawk_roles".* FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1[0m
+  [1m[35m (1.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Exists (0.2ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Load (0.1ms)[0m  SELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 17:57:36.789222"], ["name", "anonymous"], ["updated_at", "2014-04-15 17:57:36.789222"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT  "route_hawk_roles".* FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1[0m
+  [1m[35m (1.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Load (0.1ms)[0m  SELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 17:58:01.266699"], ["name", "anonymous"], ["updated_at", "2014-04-15 17:58:01.266699"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT  "route_hawk_roles".* FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1[0m
+  [1m[35m (1.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Load (0.1ms)[0m  SELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 17:59:11.056317"], ["name", "anonymous"], ["updated_at", "2014-04-15 17:59:11.056317"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT  "route_hawk_roles".* FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1[0m
+  [1m[35m (1.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_1' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 17:59:11.070349"], ["name", "role_1"], ["updated_at", "2014-04-15 17:59:11.070349"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::RoleRoute Load (0.2ms)[0m  SELECT "route_hawk_role_routes".* FROM "route_hawk_role_routes"  WHERE "route_hawk_role_routes"."role_id" = ?  [["role_id", 1]]
+  [1m[36m (1.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_2' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 17:59:11.109037"], ["name", "role_2"], ["updated_at", "2014-04-15 17:59:11.109037"]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (1.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_3' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 17:59:11.112980"], ["name", "role_3"], ["updated_at", "2014-04-15 17:59:11.112980"]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (1.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_4' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 17:59:11.116864"], ["name", "role_4"], ["updated_at", "2014-04-15 17:59:11.116864"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (1.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_5' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 17:59:11.120818"], ["name", "role_5"], ["updated_at", "2014-04-15 17:59:11.120818"]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE ("route_hawk_roles"."name" = 'samerole' AND "route_hawk_roles"."id" != 1) LIMIT 1
+  [1m[36mSQL (0.8ms)[0m  [1mUPDATE "route_hawk_roles" SET "name" = ?, "updated_at" = ? WHERE "route_hawk_roles"."id" = 1[0m  [["name", "samerole"], ["updated_at", "2014-04-15 17:59:11.123349"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_6' LIMIT 1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 17:59:11.126415"], ["name", "role_6"], ["updated_at", "2014-04-15 17:59:11.126415"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE ("route_hawk_roles"."name" = 'samerole' AND "route_hawk_roles"."id" != 2) LIMIT 1[0m
+  [1m[35m (1.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_7' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 17:59:11.137651"], ["name", "role_7"], ["updated_at", "2014-04-15 17:59:11.137651"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_8' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 17:59:11.142494"], ["name", "role_8"], ["updated_at", "2014-04-15 17:59:11.142494"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Load (0.1ms)[0m  SELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_8' LIMIT 1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_8' LIMIT 1
+  [1m[36m (1.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35mRouteHawk::Role Load (0.1ms)[0m  SELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Load (0.1ms)[0m  SELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 17:59:59.347688"], ["name", "anonymous"], ["updated_at", "2014-04-15 17:59:59.347688"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT  "route_hawk_roles".* FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1[0m
+  [1m[35m (1.2ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_1' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 17:59:59.365782"], ["name", "role_1"], ["updated_at", "2014-04-15 17:59:59.365782"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (1.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Load (0.1ms)[0m  SELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 17:59:59.370187"], ["name", "anonymous"], ["updated_at", "2014-04-15 17:59:59.370187"]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (1.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_2' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 17:59:59.374647"], ["name", "role_2"], ["updated_at", "2014-04-15 17:59:59.374647"]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_3' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 17:59:59.378594"], ["name", "role_3"], ["updated_at", "2014-04-15 17:59:59.378594"]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE ("route_hawk_roles"."name" = 'samerole' AND "route_hawk_roles"."id" != 1) LIMIT 1
+  [1m[36mSQL (0.9ms)[0m  [1mUPDATE "route_hawk_roles" SET "name" = ?, "updated_at" = ? WHERE "route_hawk_roles"."id" = 1[0m  [["name", "samerole"], ["updated_at", "2014-04-15 17:59:59.381159"]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_4' LIMIT 1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 17:59:59.384075"], ["name", "role_4"], ["updated_at", "2014-04-15 17:59:59.384075"]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE ("route_hawk_roles"."name" = 'samerole' AND "route_hawk_roles"."id" != 2) LIMIT 1[0m
+  [1m[35m (1.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_5' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 17:59:59.395299"], ["name", "role_5"], ["updated_at", "2014-04-15 17:59:59.395299"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (1.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_6' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 17:59:59.399325"], ["name", "role_6"], ["updated_at", "2014-04-15 17:59:59.399325"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::RoleRoute Load (0.2ms)[0m  SELECT "route_hawk_role_routes".* FROM "route_hawk_role_routes"  WHERE "route_hawk_role_routes"."role_id" = ?  [["role_id", 1]]
+  [1m[36m (1.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_7' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 17:59:59.412947"], ["name", "role_7"], ["updated_at", "2014-04-15 17:59:59.412947"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (1.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_8' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 17:59:59.425280"], ["name", "role_8"], ["updated_at", "2014-04-15 17:59:59.425280"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_8' LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_8' LIMIT 1[0m
+  [1m[35m (1.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_1' LIMIT 1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:02:33.903609"], ["name", "role_1"], ["updated_at", "2014-04-15 18:02:33.903609"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (1.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Load (0.1ms)[0m  SELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 18:02:33.912918"], ["name", "anonymous"], ["updated_at", "2014-04-15 18:02:33.912918"]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_2' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 18:02:33.917501"], ["name", "role_2"], ["updated_at", "2014-04-15 18:02:33.917501"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE ("route_hawk_roles"."name" = 'samerole' AND "route_hawk_roles"."id" != 1) LIMIT 1
+  [1m[36mSQL (0.8ms)[0m  [1mUPDATE "route_hawk_roles" SET "name" = ?, "updated_at" = ? WHERE "route_hawk_roles"."id" = 1[0m  [["name", "samerole"], ["updated_at", "2014-04-15 18:02:33.920176"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_3' LIMIT 1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 18:02:33.923263"], ["name", "role_3"], ["updated_at", "2014-04-15 18:02:33.923263"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE ("route_hawk_roles"."name" = 'samerole' AND "route_hawk_roles"."id" != 2) LIMIT 1[0m
+  [1m[35m (1.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_4' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:02:33.934858"], ["name", "role_4"], ["updated_at", "2014-04-15 18:02:33.934858"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (1.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_5' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:02:33.938863"], ["name", "role_5"], ["updated_at", "2014-04-15 18:02:33.938863"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (1.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_6' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:02:33.942814"], ["name", "role_6"], ["updated_at", "2014-04-15 18:02:33.942814"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::RoleRoute Load (0.1ms)[0m  SELECT "route_hawk_role_routes".* FROM "route_hawk_role_routes"  WHERE "route_hawk_role_routes"."role_id" = ?  [["role_id", 1]]
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::RoleRoute Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_role_routes"  WHERE ("route_hawk_role_routes"."role_id" = 1 AND "route_hawk_role_routes"."path_info" IS NULL AND "route_hawk_role_routes"."request_method" IS NULL) LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (1.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.2ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_7' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:02:33.977746"], ["name", "role_7"], ["updated_at", "2014-04-15 18:02:33.977746"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Load (0.2ms)[0m  SELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 18:02:33.984262"], ["name", "anonymous"], ["updated_at", "2014-04-15 18:02:33.984262"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT  "route_hawk_roles".* FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_8' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:02:34.002378"], ["name", "role_8"], ["updated_at", "2014-04-15 18:02:34.002378"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Load (0.1ms)[0m  SELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_8' LIMIT 1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_8' LIMIT 1
+  [1m[36m (1.1ms)[0m  [1mrollback transaction[0m
+  [1m[35mRouteHawk::Role Load (0.2ms)[0m  SELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.8ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_1' LIMIT 1[0m
+  [1m[35mSQL (1.7ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:21:48.397799"], ["name", "role_1"], ["updated_at", "2014-04-15 18:21:48.397799"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (2.7ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_2' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:21:48.411951"], ["name", "role_2"], ["updated_at", "2014-04-15 18:21:48.411951"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE ("route_hawk_roles"."name" = 'samerole' AND "route_hawk_roles"."id" != 1) LIMIT 1[0m
+  [1m[35mSQL (0.8ms)[0m  UPDATE "route_hawk_roles" SET "name" = ?, "updated_at" = ? WHERE "route_hawk_roles"."id" = 1  [["name", "samerole"], ["updated_at", "2014-04-15 18:21:48.414349"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_3' LIMIT 1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:21:48.417369"], ["name", "role_3"], ["updated_at", "2014-04-15 18:21:48.417369"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE ("route_hawk_roles"."name" = 'samerole' AND "route_hawk_roles"."id" != 2) LIMIT 1
+  [1m[36m (1.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_4' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 18:21:48.430551"], ["name", "role_4"], ["updated_at", "2014-04-15 18:21:48.430551"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mRouteHawk::RoleRoute Load (0.9ms)[0m  [1mSELECT "route_hawk_role_routes".* FROM "route_hawk_role_routes"  WHERE "route_hawk_role_routes"."role_id" = ?[0m  [["role_id", 1]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::RoleRoute Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_role_routes"  WHERE ("route_hawk_role_routes"."role_id" = 1 AND "route_hawk_role_routes"."path_info" IS NULL AND "route_hawk_role_routes"."request_method" IS NULL) LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (1.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:21:48.465864"], ["name", "anonymous"], ["updated_at", "2014-04-15 18:21:48.465864"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (1.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_5' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:21:48.470506"], ["name", "role_5"], ["updated_at", "2014-04-15 18:21:48.470506"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (1.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_6' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:21:48.474533"], ["name", "role_6"], ["updated_at", "2014-04-15 18:21:48.474533"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::RoleRoute Load (0.0ms)[0m  SELECT "route_hawk_role_routes".* FROM "route_hawk_role_routes"  WHERE "route_hawk_role_routes"."role_id" = ?  [["role_id", 1]]
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_7' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 18:21:48.479691"], ["name", "role_7"], ["updated_at", "2014-04-15 18:21:48.479691"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (1.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_8' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 18:21:48.485134"], ["name", "role_8"], ["updated_at", "2014-04-15 18:21:48.485134"]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_8' LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_8' LIMIT 1[0m
+  [1m[35m (1.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Load (0.1ms)[0m  SELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 18:21:48.510645"], ["name", "anonymous"], ["updated_at", "2014-04-15 18:21:48.510645"]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT  "route_hawk_roles".* FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1[0m
+  [1m[35m (1.2ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35mRouteHawk::Role Exists (0.7ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" IS NULL LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_1' LIMIT 1[0m
+  [1m[35mSQL (1.4ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:24:59.049791"], ["name", "role_1"], ["updated_at", "2014-04-15 18:24:59.049791"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Load (0.1ms)[0m  SELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_1' LIMIT 1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_1' LIMIT 1
+  [1m[36m (1.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:24:59.070920"], ["name", "anonymous"], ["updated_at", "2014-04-15 18:24:59.070920"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Load (0.1ms)[0m  SELECT  "route_hawk_roles".* FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_2' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 18:24:59.104060"], ["name", "role_2"], ["updated_at", "2014-04-15 18:24:59.104060"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (1.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_3' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 18:24:59.108211"], ["name", "role_3"], ["updated_at", "2014-04-15 18:24:59.108211"]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mRouteHawk::RoleRoute Load (0.6ms)[0m  [1mSELECT "route_hawk_role_routes".* FROM "route_hawk_role_routes"  WHERE "route_hawk_role_routes"."role_id" = ?[0m  [["role_id", 1]]
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::RoleRoute Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_role_routes"  WHERE ("route_hawk_role_routes"."role_id" = 1 AND "route_hawk_role_routes"."path_info" IS NULL AND "route_hawk_role_routes"."request_method" IS NULL) LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (1.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_4' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 18:24:59.138327"], ["name", "role_4"], ["updated_at", "2014-04-15 18:24:59.138327"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (1.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_5' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 18:24:59.142435"], ["name", "role_5"], ["updated_at", "2014-04-15 18:24:59.142435"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE ("route_hawk_roles"."name" = 'samerole' AND "route_hawk_roles"."id" != 1) LIMIT 1
+  [1m[36mSQL (0.8ms)[0m  [1mUPDATE "route_hawk_roles" SET "name" = ?, "updated_at" = ? WHERE "route_hawk_roles"."id" = 1[0m  [["name", "samerole"], ["updated_at", "2014-04-15 18:24:59.145007"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::Role Exists (0.1ms)[0m  SELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_6' LIMIT 1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)[0m  [["created_at", "2014-04-15 18:24:59.147955"], ["name", "role_6"], ["updated_at", "2014-04-15 18:24:59.147955"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE ("route_hawk_roles"."name" = 'samerole' AND "route_hawk_roles"."id" != 2) LIMIT 1[0m
+  [1m[35m (1.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_7' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:24:59.153454"], ["name", "role_7"], ["updated_at", "2014-04-15 18:24:59.153454"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (1.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'role_8' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:24:59.157469"], ["name", "role_8"], ["updated_at", "2014-04-15 18:24:59.157469"]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mRouteHawk::RoleRoute Load (0.0ms)[0m  SELECT "route_hawk_role_routes".* FROM "route_hawk_role_routes"  WHERE "route_hawk_role_routes"."role_id" = ?  [["role_id", 1]]
+  [1m[36m (1.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT  "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY "route_hawk_roles"."id" ASC LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mRouteHawk::Role Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "route_hawk_roles"  WHERE "route_hawk_roles"."name" = 'anonymous' LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "route_hawk_roles" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", "2014-04-15 18:24:59.163022"], ["name", "anonymous"], ["updated_at", "2014-04-15 18:24:59.163022"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (1.1ms)[0m  rollback transaction
+  [1m[36mRouteHawk::Role Load (0.1ms)[0m  [1mSELECT "route_hawk_roles".* FROM "route_hawk_roles"   ORDER BY name ASC[0m

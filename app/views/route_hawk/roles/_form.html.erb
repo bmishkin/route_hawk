@@ -1,0 +1,73 @@
+<%= form_for(@role) do |f| %>
+  <% if @role.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@role.errors.count, "error") %> prohibited this role from being saved:</h2>
+
+      <ul>
+      <% @role.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %><br>
+    <%= f.text_field :name %>
+  </div>
+  
+  <h4>Currently assigned routes</h4>
+
+   <table>
+     <thead>
+       <tr>
+         <th width="5%"></th>
+         <th width="35%">Controller</th>
+         <th width="10%">Action</th>
+         <th width="10%">Verb</th>
+         <th width="40%">Path</th>
+       </tr>
+     </thead>
+
+     <% @role.role_routes(true).each do |rr| %>
+     <tr>
+       <td></td>
+       <td><%= label_tag nil, rr.controller %></td>
+       <td><%= label_tag nil, rr.action %></td>
+       <td><%= label_tag nil, rr.verb %></td>
+       <td><%= label_tag nil, rr.path %></td>
+     </tr>
+   <% end %>
+   </table>
+
+   <h4>All available routes</h4>
+
+   <table>
+     <thead>
+       <tr>
+         <th width="5%"></th>
+         <th width="35%">Controller</th>
+         <th width="10%">Action</th>
+         <th width="10%">Verb</th>
+         <th width="40%">Path</th>
+       </tr>
+     </thead>
+
+     <tbody>
+       <% Role.available_routes_sorted.each_with_index do |route, index| %>
+         <tr>
+           <td><%= check_box_tag n="routes[#{index}]", true, @role.permit_route?(route) %>
+           <td><%= label_tag n, route.defaults[:controller] %></td>
+           <td><%= label_tag n, route.defaults[:action] %></td>
+           <td><%= label_tag n, route.verb %></td>
+           <td><%= label_tag n, route.path %></td>
+         </tr>
+       <% end %>
+     </tbody>
+   </table>
+  
+  
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
